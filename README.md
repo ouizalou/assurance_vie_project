@@ -28,5 +28,6 @@ Cette base de données modélise les données essentielles liées aux contrats d
 
 
 # 🖼️ Schéma relationnel (Mermaid) 
-![diagram_BDD_Assu_Vie](https://github.com/user-attachments/assets/c58d6d20-88a1-4b2f-bd08-374c2aa00670)
+
+<img width="3840" height="562" alt="assurance_vie_mermaid" src="https://github.com/user-attachments/assets/e899d0fa-7075-465a-8ded-38eadc025661" />
 
