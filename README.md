@@ -28,7 +28,7 @@ Cette base de données modélise les données essentielles liées aux contrats d
 
 
 # 🖼️ Schéma relationnel (Mermaid) 
+<img width="3840" height="562" alt="Untitled diagram _ Mermaid Chart-2025-07-11-153637" src="https://github.com/user-attachments/assets/838136d0-81e5-4add-9906-9223c540d984" />
 
 <img width="3840" height="562" alt="assurance_vie_mermaid" src="https://github.com/user-attachments/assets/e899d0fa-7075-465a-8ded-38eadc025661" />
-https://www.mermaidchart.com/app/projects/3c82b5cc-d351-4d67-b504-bb4173423f75/diagrams/7665d6cb-5613-4197-aebd-4f8dc512ca95/version/v0.1/edit
 
