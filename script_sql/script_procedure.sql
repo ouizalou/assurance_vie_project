@@ -208,7 +208,8 @@ call delete_sinistre(31);
 delimiter 
 //
 create procedure insert_sinistre(
-	IN p_contrat_id INT,
+    IN p_sinistre_id,
+    IN p_contrat_id INT,
     IN p_date_sinistre DATE,
     IN p_type_sinistre ENUM('deces', 'versement'),
     IN p_montant DECIMAL(12,2),
@@ -218,8 +219,8 @@ begin
 	if exists 
 		(select 1 from contrats where contrat_id=p_contrat_id)
 	then
-		insert into sinistres (contrat_id,date_sinistre,type_sinistre,montant,description)
-		values(p_contrat_id,p_date_sinistre,p_type_sinistre,p_montant,p_description);
+		insert into sinistres (sinistre_id,contrat_id,date_sinistre,type_sinistre,montant,description)
+		values(p_sinistre_id,p_contrat_id,p_date_sinistre,p_type_sinistre,p_montant,p_description);
 	else 
 		signal sqlstate '45000' 
 		set MESSAGE_TEXT = 'Le contrat_id spécifié n''existe pas.';
