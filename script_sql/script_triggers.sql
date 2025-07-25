@@ -87,6 +87,29 @@ end
 //
 delimiter ;
 
+/*
+ * Trigger : tr_historique_insert_sinistre
+ * But métier : Journaliser dans une table d’audit tout ajout de sinistre
+ *              lié à un contrat d'assurance.
+ * Usage : Permettre un suivi complet des ajouts de sinistres dans 
+ *         une logique de traçabilité, de conformité et d'analyse.
+ */
+
+delimiter
+//
+create trigger tr_historique_insert_sinistre 
+after insert on sinistres 
+for each row 
+begin
+	insert into evenements_audit (utilisateur_id,action,description,date_evenement,ip_utilisateur) 
+	values(null,'AJOUT_SINISTRE',
+	concat('Ajout d''un sinistre de type ', NEW.type_sinistre, ' pour le  contrat ', NEW.contrat_id),
+	now(),'localhost');
+
+end
+//
+delimiter ;
+
 
 /*
  * Trigger : tr_historique_insert_beneficiaire
