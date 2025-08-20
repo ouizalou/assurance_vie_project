@@ -1,0 +1,97 @@
+{
+  "exportedWithOptions": {
+    "exportUploads": true,
+    "exportManagedFS": false,
+    "exportAnalysisModels": true,
+    "exportSavedModels": true,
+    "exportManagedFolders": false,
+    "exportModelEvaluationStores": false,
+    "exportProjectResources": true,
+    "exportLabelingTasks": false,
+    "exportAllInputDatasets": false,
+    "exportAllDatasets": false,
+    "exportAllInputManagedFolders": false,
+    "exportGitRepository": true,
+    "exportInsightsData": false,
+    "useManualPluginsInfo": false,
+    "exportSavedModelsRequiredVersions": false,
+    "exportNotebooksWithOutputs": true,
+    "exportForNewBranch": false,
+    "exportKnowledgeBanks": false,
+    "exportEditableDatasets": true,
+    "exportPromptStudioHistories": false,
+    "exportNotebooks": true,
+    "includedDatasetsData": [],
+    "includedSavedModels": [],
+    "includedModelEvaluationStores": [],
+    "includedManagedFolders": [],
+    "includedCodeStudios": [],
+    "includedKnowledgeBanks": [],
+    "includedLabelingTasks": [],
+    "includedPromptStudiosHistories": [],
+    "shareAllInputDatasets": false,
+    "exportForeignObjectsReferences": true
+  },
+  "actualContent": {
+    "includedDatasets": [],
+    "includedSavedModels": [],
+    "includedManagedFolders": [],
+    "includedModelEvaluationStores": [],
+    "includedCodeStudios": [],
+    "includedKnowledgeBanks": [],
+    "includedLabelingTasks": [],
+    "includedPromptStudiosHistories": [],
+    "allAnalysisData": true,
+    "insightsData": false
+  },
+  "originalProjectKey": "ASSURANCE_VIE_RISQUE",
+  "manifestVersion": 3,
+  "generatedWithDSSVersion": "14.1.0",
+  "generatedWithDSSConfVersion": "14100",
+  "foreignObjects": [],
+  "exportedWithPlugins": [
+    {
+      "pluginId": "local-r-dev-setup",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "default-samples",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "builtin-macros",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "code-studio-blocks",
+      "version": "1.0.0"
+    },
+    {
+      "pluginId": "colorbrewer-palettes",
+      "version": "0.0.1"
+    },
+    {
+      "pluginId": "k8s-metrics-utils",
+      "version": "1.0.0"
+    }
+  ],
+  "exportedWithCodeStudioTemplates": [],
+  "requiredCodeStudioTemplates": [],
+  "requiredConnections": {
+    "assurance_vie": {
+      "name": "assurance_vie",
+      "type": "MySQL",
+      "isMissing": false
+    }
+  },
+  "allowedMissingConnections": [],
+  "usedCodeEnvRefs": [
+    {
+      "envLang": "PYTHON",
+      "envName": "custom_env_v1"
+    }
+  ],
+  "allowedMissingCodeEnvs": [],
+  "usedContainerExecConfs": [],
+  "hasPartitionedDataset": false
+}

@@ -1,0 +1,17 @@
+{
+    "resolved": {
+        "algorithm": "RANDOM_FOREST_REGRESSION",
+        "skipExpensiveReports": false,
+        "rf": {
+            "estimators": 100,
+            "njobs": 1,
+            "max_tree_depth": 6,
+            "min_samples_leaf": 1,
+            "selection_mode": "prop",
+            "max_feature_prop": 1.0
+        }
+    },
+    "other": {
+        "rf_min_samples_split": 3
+    }
+}

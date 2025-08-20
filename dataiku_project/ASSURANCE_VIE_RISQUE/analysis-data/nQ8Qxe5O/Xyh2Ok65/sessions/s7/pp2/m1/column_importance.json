@@ -1,0 +1,12 @@
+{
+    "columns": [
+        "rang_investisseur",
+        "client_id",
+        "nbre_contrat_investi"
+    ],
+    "importances": [
+        0.9950530863201875,
+        0.00475016206481001,
+        0.00019675161500232877
+    ]
+}
