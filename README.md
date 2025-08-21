@@ -88,9 +88,11 @@ https://github.com/ouizalou/assurance_vie_project/blob/8a0c69017bc848c39553e66a4
 - Interface construite avec **Streamlit** (lancement avec `streamlit run dashboard_app_assurance.py`).  
 
 📸 *Aperçu de l’organisation du projet sur GitHub*  
-![Organisation repo](a9ef52eb-4d6b-4462-973b-5fe79b411602.png)  
+
+https://github.com/ouizalou/assurance_vie_project/blob/00d047c1aa8c491c4ff7476a3ecc0fd88ce5019f/dashboard_streamlit/dashboard_streamlit_manual.pdf
 
 ---
+
 
 
 
