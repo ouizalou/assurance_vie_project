@@ -1,0 +1,24 @@
+{
+  "type": "jupyter",
+  "params": {
+    "notebookSmartName": "montant_investi_par_client",
+    "exportTimestamp": 0,
+    "loadLast": true
+  },
+  "owner": "admin",
+  "listed": true,
+  "name": "montant_investi_par_client (2025-08-18 06:21)",
+  "dashboardCreationId": "DZydHTM",
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1755541319635
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

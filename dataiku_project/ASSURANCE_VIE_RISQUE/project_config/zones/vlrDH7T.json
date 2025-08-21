@@ -1,0 +1,82 @@
+{
+  "name": "analyse/agregations",
+  "color": "#F9BE40",
+  "items": [
+    {
+      "objectId": "compute_contrat_client",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "contrat_client",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_operations_sum12m",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "operations_sum12m",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_operation_sum6mois",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "operation_sum6mois",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "operations_6mois_prec",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_operations_6mois_prec",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "compute_contrat_par_client",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "contrat_par_client",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_montant_investi",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "montant_investi",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "montant_investi_predic_model",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_montant_investi_predic_model",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "montant_investi_par_client_labellise",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_montant_investi_par_client_labellise",
+      "objectType": "RECIPE"
+    }
+  ],
+  "shared": [],
+  "position": {
+    "x": 1049.5827459424888,
+    "y": -997.1477201809654,
+    "width": 1007.0,
+    "height": 1036.0
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}

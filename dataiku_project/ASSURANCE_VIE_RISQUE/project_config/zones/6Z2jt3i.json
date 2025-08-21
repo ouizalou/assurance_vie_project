@@ -1,0 +1,50 @@
+{
+  "name": "preparations",
+  "color": "#0F786B",
+  "items": [
+    {
+      "objectId": "compute_contrats_nettoyer",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "contrats_nettoyer",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_clients_a_netoyer",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "clients_a_netoyer",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_operations_nettoyer_12mois",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "operations_nettoyer_12mois",
+      "objectType": "DATASET"
+    },
+    {
+      "objectId": "compute_operations_nettoyer_6mois",
+      "objectType": "RECIPE"
+    },
+    {
+      "objectId": "operations_nettoyer_6mois",
+      "objectType": "DATASET"
+    }
+  ],
+  "shared": [],
+  "position": {
+    "x": 271.36844536927356,
+    "y": -109.01455939646576,
+    "width": 462.0,
+    "height": 660.0
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
