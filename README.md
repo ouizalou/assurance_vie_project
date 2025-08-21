@@ -64,6 +64,7 @@ La base couvre les **entités principales d’une assurance vie** :
 
 📸 *Aperçu des scripts SQL dans le repo*  
 ![Scripts SQL](22f12574-8b5f-447d-9698-0905ea58e194.png)  
+script_sql/script_evenements.sql
 
 ---
 
@@ -90,5 +91,6 @@ La base couvre les **entités principales d’une assurance vie** :
 ![Organisation repo](a9ef52eb-4d6b-4462-973b-5fe79b411602.png)  
 
 ---
+
 
 
