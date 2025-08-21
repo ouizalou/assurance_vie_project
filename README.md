@@ -14,10 +14,10 @@ Il combine **SQL** (modélisation, procédures, vues), **Python** (analyses et a
 ## 🗂️ Organisation du projet  
 
 📁 **Diagramme/**  
-- Contient le schéma relationnel de la base sous format Mermaid + PNG.  
+- Contient le schéma relationnel de la base de données  + PNG sous format mermaid.  
 
 📁 **script_sql/**  
-- Scripts SQL de création de tables, insertion de données, requêtes analytiques, triggers, procédures, vues.  
+- Scripts SQL de création de tables, insertion de données, requêtes analytiques, triggers, evenements, procédures, vues.  
 
 📁 **scripts_python/**  
 - Scripts Python d’analyse exploratoire et application Streamlit pour dashboard interactif.  
@@ -91,9 +91,4 @@ La base couvre les **entités principales d’une assurance vie** :
 
 ---
 
-## 🚀 Exécution du projet  
 
-1️⃣ **Cloner le projet**  
-```bash
-git clone https://github.com/ouizalou/assurance_vie_project.git
-cd assurance_vie_project
