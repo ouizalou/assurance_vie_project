@@ -63,7 +63,6 @@ La base couvre les **entités principales d’une assurance vie** :
 - `script_vues.sql` → Création de vues pour simplifier les analyses.  
 
 📸 *Aperçu des scripts SQL dans le repo*  
-[![Scripts SQL](22f12574-8b5f-447d-9698-0905ea58e194.png)  
 script_sql/script_evenements.sql](https://github.com/ouizalou/assurance_vie_project/blob/831a5202267c3161b9a099f9da459c38ef9b54ab/script_sql/script_evenements.sql)
 
 ---
@@ -76,8 +75,7 @@ script_sql/script_evenements.sql](https://github.com/ouizalou/assurance_vie_proj
 - `dashboard_app_assurance.py` → Application **Streamlit** pour visualisation interactive.  
 
 📸 *Aperçu des scripts Python dans le repo*  
-![Scripts Python](fd04756a-62be-4aea-b725-82e0a9bbb5e1.png)  
-
+https://github.com/ouizalou/assurance_vie_project/blob/8a0c69017bc848c39553e66a48c3c8b27db72e70/scripts_python/assurance_vie_analyse.py
 ---
 
 ## 📊 Dashboard interactif  
@@ -91,6 +89,7 @@ script_sql/script_evenements.sql](https://github.com/ouizalou/assurance_vie_proj
 ![Organisation repo](a9ef52eb-4d6b-4462-973b-5fe79b411602.png)  
 
 ---
+
 
 
 
