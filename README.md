@@ -74,8 +74,10 @@ script_sql/script_evenements.sql](https://github.com/ouizalou/assurance_vie_proj
 - `assurance_vie_analyse.py` → Analyse exploratoire des données.  
 - `dashboard_app_assurance.py` → Application **Streamlit** pour visualisation interactive.  
 
-📸 *Aperçu des scripts Python dans le repo*  
+📸 *Aperçu des scripts Python dans le repo* 
+
 https://github.com/ouizalou/assurance_vie_project/blob/8a0c69017bc848c39553e66a48c3c8b27db72e70/scripts_python/assurance_vie_analyse.py
+
 ---
 
 ## 📊 Dashboard interactif  
@@ -89,6 +91,7 @@ https://github.com/ouizalou/assurance_vie_project/blob/8a0c69017bc848c39553e66a4
 ![Organisation repo](a9ef52eb-4d6b-4462-973b-5fe79b411602.png)  
 
 ---
+
 
 
 
