@@ -1,6 +1,3 @@
-# data_analyst
-data-analyst-work
-# Base de données Assurance Vie
 # 📊 Projet Data Analyst – Base de données Assurance Vie  
 
 ## 📝 Contexte  
@@ -100,5 +97,3 @@ La base couvre les **entités principales d’une assurance vie** :
 ```bash
 git clone https://github.com/ouizalou/assurance_vie_project.git
 cd assurance_vie_project
-
-
