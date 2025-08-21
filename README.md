@@ -63,8 +63,8 @@ La base couvre les **entités principales d’une assurance vie** :
 - `script_vues.sql` → Création de vues pour simplifier les analyses.  
 
 📸 *Aperçu des scripts SQL dans le repo*  
-![Scripts SQL](22f12574-8b5f-447d-9698-0905ea58e194.png)  
-script_sql/script_evenements.sql
+[![Scripts SQL](22f12574-8b5f-447d-9698-0905ea58e194.png)  
+script_sql/script_evenements.sql](https://github.com/ouizalou/assurance_vie_project/blob/831a5202267c3161b9a099f9da459c38ef9b54ab/script_sql/script_evenements.sql)
 
 ---
 
@@ -91,6 +91,7 @@ script_sql/script_evenements.sql
 ![Organisation repo](a9ef52eb-4d6b-4462-973b-5fe79b411602.png)  
 
 ---
+
 
 
 
