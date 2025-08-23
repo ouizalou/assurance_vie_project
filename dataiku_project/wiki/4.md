@@ -27,8 +27,8 @@ Base **assurance_vie_risque** (MySQL) :
 ---
 
 ## 📓 Notebooks
-- **montant_investi_par_client** : calculs exploratoires et tests de transformations avant industrialisation.  
-
+- **montant_investi_par_client** : calculs exploratoires et tests de transformations avant industrialisation.
+- **montant_investi_model** : script d’entraînement ML + scoring VIP.
 ---
 
 ## 🤖 Machine Learning
