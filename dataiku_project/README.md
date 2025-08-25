@@ -7,7 +7,7 @@ Il reprend les mêmes données que celles définies dans le dossier `script_sql/
 - Importation des données (SQL / CSV générés).
 - Nettoyage et préparation (recipes visuelles et scripts Python/SQL).
 - Analyses exploratoires et indicateurs métiers.
-- Modélisation prédictive simple (ex. churn des clients, sinistres).
+- Modélisation prédictive simple.
 - Dashboard interactif.
 
 ---
@@ -22,7 +22,7 @@ Il reprend les mêmes données que celles définies dans le dossier `script_sql/
 ## 🛠️ Prérequis
 - **Dataiku DSS** (≥ version 11, Community Edition gratuite suffit).  
   👉 [Téléchargement Dataiku DSS](https://www.dataiku.com/product/get-started/)  
-- Base de données ou fichiers CSV générés depuis `script_sql/`.
+- Base de données  `script_sql/`.
 
 ---
 
