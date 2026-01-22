@@ -7,3 +7,4 @@ seaborn
 sqlalchemy
 pymysql
 plotly
+sqlalchemy
