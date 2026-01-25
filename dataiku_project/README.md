@@ -80,11 +80,5 @@ Un scénario d’automatisation est configuré :
 - Recalcul automatique des KPI et dashboards.
 - Notifications par email (optionnel).
 
----
-
-## ✅ Étapes futures
-- Ajouter plus d’analyses prédictives (fraude, scoring clients).  
-- Créer un pipeline automatisé avec export vers **Power BI** ou **Streamlit**.  
-- Intégrer l’API Python de Dataiku pour lancer des scripts avancés.
 
 ---
