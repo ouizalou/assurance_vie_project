@@ -44,7 +44,7 @@ La base couvre les **entités principales d’une assurance vie** :
 | `commissions_intermediaires` | Commissions versées aux intermédiaires |
 | `intermediaires`             | Agents, courtiers, etc. |  
 
-### 📌 Schéma relationnel  
+### 📌 Diagramme du système d’assurance-vie 
 ![Schéma Assurance Vie](assurance_vie_mermaid.png)  
 
 ---
@@ -92,6 +92,7 @@ https://github.com/ouizalou/assurance_vie_project/blob/8a0c69017bc848c39553e66a4
 https://github.com/ouizalou/assurance_vie_project/blob/00d047c1aa8c491c4ff7476a3ecc0fd88ce5019f/dashboard_streamlit/dashboard_streamlit_manual.pdf
 
 ---
+
 
 
 
